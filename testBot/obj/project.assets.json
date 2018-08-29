@@ -5917,11 +5917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KramRul\\source\\repos\\Discord Bots\\testBot\\testBot\\testBot.csproj",
+      "projectUniqueName": "C:\\Users\\KramRul\\Documents\\GitHub\\DiscordBotTestBot\\testBot\\testBot.csproj",
       "projectName": "testBot",
-      "projectPath": "C:\\Users\\KramRul\\source\\repos\\Discord Bots\\testBot\\testBot\\testBot.csproj",
+      "projectPath": "C:\\Users\\KramRul\\Documents\\GitHub\\DiscordBotTestBot\\testBot\\testBot.csproj",
       "packagesPath": "C:\\Users\\KramRul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KramRul\\source\\repos\\Discord Bots\\testBot\\testBot\\obj\\",
+      "outputPath": "C:\\Users\\KramRul\\Documents\\GitHub\\DiscordBotTestBot\\testBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

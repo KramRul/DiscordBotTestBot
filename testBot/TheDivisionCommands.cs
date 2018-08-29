@@ -22,7 +22,7 @@ namespace testBot
     public class TheDivisionCommands
     {
         [Command("short")]
-        public async Task Join(CommandContext ctx, [RemainingText] string nickname)
+        public async Task Short(CommandContext ctx, [RemainingText] string nickname)
         {
             await ctx.TriggerTypingAsync();
 

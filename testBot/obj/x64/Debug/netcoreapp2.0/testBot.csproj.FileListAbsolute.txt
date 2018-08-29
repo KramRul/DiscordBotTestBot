@@ -9,3 +9,14 @@ C:\Users\KramRul\source\repos\Discord Bots\testBot\testBot\obj\x64\Debug\netcore
 C:\Users\KramRul\source\repos\Discord Bots\testBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.AssemblyInfo.cs
 C:\Users\KramRul\source\repos\Discord Bots\testBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.dll
 C:\Users\KramRul\source\repos\Discord Bots\testBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.pdb
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\bin\x64\Debug\netcoreapp2.0\testBot.deps.json
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\bin\x64\Debug\netcoreapp2.0\testBot.runtimeconfig.json
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\bin\x64\Debug\netcoreapp2.0\testBot.runtimeconfig.dev.json
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\bin\x64\Debug\netcoreapp2.0\testBot.dll
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\bin\x64\Debug\netcoreapp2.0\testBot.pdb
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.csprojAssemblyReference.cache
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.csproj.CoreCompileInputs.cache
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.AssemblyInfoInputs.cache
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.AssemblyInfo.cs
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.dll
+C:\Users\KramRul\Documents\GitHub\DiscordBotTestBot\testBot\obj\x64\Debug\netcoreapp2.0\testBot.pdb

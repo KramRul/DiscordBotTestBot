@@ -59,7 +59,9 @@ namespace testBot
 
             await ctx.RespondAsync("👌");
             await vnc.SendSpeakingAsync(true); // send a speaking indicator
+            /************************************************************************************/
 
+            /************************************************************************************/
             var psi = new ProcessStartInfo
             {
                 FileName = "ffmpeg",
